@@ -20,4 +20,4 @@ You can install required Python packages with [pkgsrc](https://www.pkgsrc.org/):
 ```
 
 ## License
-[https://github.com/ryoon/google-oauth2-loopback-ip/blob/master/LICENSE](Apache License Version 2.0)
+[Apache License Version 2.0](https://github.com/ryoon/google-oauth2-loopback-ip/blob/master/LICENSE)
