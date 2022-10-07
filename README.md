@@ -1,7 +1,7 @@
 # For Google workspace OAuth2 authentication
 
-After 2022-10-04, Google workspace users connot use OAuth2 out-of-band
-flow anymore. For mbsync and msmtp commands, you must use loopback IP flow
+After 2022-10-04, Google workspace users cannot use OAuth2 out-of-band
+flow for Gmail anymore. For mbsync and msmtp commands, you must use loopback IP flow
 instead.
 You can use `google-oauth2-loopback-ip.py` to get the refresh token,
 and `google-oauth2-refresh-access_token.py` to get the access tokens
