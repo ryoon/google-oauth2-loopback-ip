@@ -10,7 +10,7 @@ with the access token.
 Please read [How to use Google Workspace OAuth2 with mbsync (from isync) and msmtp on NetBSD](https://blog.onodera.asia/2022/09/how-to-use-google-workspace-oauth2-with.html).
 
 ## Requirements
-You can install required Python packages with [https://www.pkgsrc.org/](pkgsrc):
+You can install required Python packages with [pkgsrc](https://www.pkgsrc.org/):
 
 ```
 # cd /usr/pkgsrc/www/py-google-api-python-client
